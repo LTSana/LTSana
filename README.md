@@ -21,9 +21,11 @@ I'm still a young Padawan in the world I fight to thrive in. I believe everyone 
 - <img src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" width="30px"/> **HTML5**
 
 ### How to rach me 📫
-Website: [LT.Sana](http://snm.codes)
+Website: <img src="https://snm.codes/static/App0/assets/img/LT_SANA_AVI.4f5bf51658b6.jpg?h=e988f45d8a784b0af03ed86e4cb56488" width="15px" /> [LT.Sana](http://snm.codes)
 
 E-mail: snm.developer@gmail.com
+
+Discord: `LT.Sana#9372`
 
 ### Fun fact ⚡
 - I love playing video games & YouTube videos.
