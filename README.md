@@ -23,9 +23,9 @@ I'm still a young Padawan in the world I fight to thrive in. I believe everyone 
 ### How to rach me 📫
 Website: <img src="https://snm.codes/static/App0/assets/img/LT_SANA_AVI.4f5bf51658b6.jpg?h=e988f45d8a784b0af03ed86e4cb56488" width="15px" /> [LT.Sana](http://snm.codes)
 
-E-mail: snm.developer@gmail.com
+E-mail: <img src="https://www.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20px"/> snm.developer@gmail.com
 
-Discord: `LT.Sana#9372`
+Discord: <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width="20px" /> `LT.Sana#9372`
 
 ### Fun fact ⚡
 - I love playing video games & YouTube videos.
