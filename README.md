@@ -24,6 +24,8 @@ I'm still a young Padawan in the world I fight to thrive in. I believe everyone 
 <img alt="SQL" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" width="30px" align="left" />
 <img alt="Django" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="30px" align="left" />
 <img alt="Flask" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" width="30px" align="left" />
+<img alt="YouTube" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" width="30px" align="left" />
+<img alt="" src="" width="30px" align="left" />
 <img alt="C Language" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30px" />
 
 ### How to rach me 📫
