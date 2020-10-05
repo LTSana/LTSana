@@ -39,6 +39,6 @@ Discord: <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/9
 - I love playing video games & YouTube videos.
 - I'm into sports and car racing.
 
-## My States
+## My Stats
 <img align="left" alt="LTSana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LTSana&show_icons=true&hide_border=true&count_private=true&theme=radical&hide_rank=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTSana&hide_border=true&layout=compact" alt="Most Used Languages" />
