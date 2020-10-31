@@ -1,21 +1,3 @@
-<html>
-
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
-    <title>Untitled</title>
-</head>
-
-<body>
-    <section id="hero_1">
-        <div class="container">
-            <h1 class="text-center" style="font-family: Roboto, sans-serif;font-weight: bold;">Welcome to my GitHub</h1>
-        </div>
-    </section>
-</body>
-
-</html>
-
 ## Hi there, I'm LT.Sana 👋
 
 - 🔭 I’m currently working on Teeker Corp App...
