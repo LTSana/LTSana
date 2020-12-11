@@ -29,7 +29,7 @@ I'm still a young Padawan in the world I fight to thrive in. I believe everyone 
 <img alt="C Language" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30px" />
 
 ## How to reach me 📫
-Website: <img src="https://snm.codes/static/App0/assets/img/LT_SANA_AVI.4f5bf51658b6.jpg?h=e988f45d8a784b0af03ed86e4cb56488" width="15px" /> [LT.Sana](http://snm.codes)
+Website: <img src="http://snm.codes/static/App0/assets/img/LT_SANA_AVI.4f5bf51658b6.jpg?h=e988f45d8a784b0af03ed86e4cb56488" width="15px" /> [LT.Sana](http://snm.codes)
 
 E-mail: <img src="https://www.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20px"/> [snm.developer@gmail.com](mailto:snm.developer@gmail.com?subject=Hello!)
 
