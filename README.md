@@ -14,20 +14,6 @@ I strive to create elegant solutions that surprise and delight users, while keep
 
 I'm still a young Padawan in the world I fight to thrive in. I believe everyone has a dream of a WebApp they wish to make and I am here to help make it a reality
 
-### I'm skilled in these areas
-<img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="30px" align="left" />
-<img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png" width="30px" align="left" />
-<img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30px" align="left" />
-<img alt="HTML5" src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" width="30px" align="left" />
-<img alt="Heroku" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" width="30px" align="left" />
-<img alt="Visual Studio Code" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="30px" align="left" />
-<img alt="SQL" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" width="30px" align="left" />
-<img alt="Django" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="30px" align="left" />
-<img alt="Flask" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" width="30px" align="left" />
-<img alt="YouTube" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png" width="30px" align="left" />
-<img alt="" src="" width="30px" align="left" />
-<img alt="C Language" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="30px" />
-
 ## How to reach me 📫
 Website: [LT.Sana](http://ltsana.github.io)
 
