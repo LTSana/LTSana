@@ -23,5 +23,7 @@ Discord: <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/9
 - I'm into sports and car racing.
 
 ## My Stats
-<img align="left" alt="LTSana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LTSana&show_icons=true&hide_border=true&count_private=true&theme=radical&hide_rank=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTSana&hide_border=true&layout=compact" alt="Most Used Languages" />
+
+[![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTSana&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LTSana&card_width=250&langs_count=6&hide_border=true&layout=compact&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeWars](https://www.codewars.com/users/LT.Sana/badges/large)](https://www.codewars.com/users/LT.Sana/badges)
