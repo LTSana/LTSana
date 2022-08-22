@@ -12,6 +12,7 @@ I've been coding for the past 4 years. I started with C moving on to Python and 
 *   🚀  I'm currently working on [EUL Student App](http://eulstudentapp.herokuapp.com/)
 *   🧠  I'm learning how to better my skills in Django and Python
 *   ⚡  I'm secretly Ironman... but don't tell anyone.
+
 <a href="https://www.github.com/LTSana" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/LTSana?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
