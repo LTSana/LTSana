@@ -6,11 +6,10 @@ Web Developer & Designer
 
 I've been coding for the past 4 years. I started with C moving on to Python and deciding to focus on web application development, building complex web applications and PWA for android devices. Currently working with my University to develop a better student experience and improving their Cyber Security.
 
-*   🌍  I'm based in Lefke, North Cyprus
+*   🌍  I'm based in Cyprus
 *   🖥️  See my portfolio at [My Portfolio](http://ltsana.github.io/)
 *   ✉️  You can contact me at [snm.developer@gmail.com](mailto:snm.developer@gmail.com)
-*   🚀  I'm currently working on [EUL Student App](http://eulstudentapp.herokuapp.com/)
-*   🧠  I'm learning how to better my skills in Django and Python
+*   🧠  I'm learning how to better my skills in the latest fields.
 *   ⚡  I'm secretly Ironman... but don't tell anyone.
 
 <a href="https://www.github.com/LTSana" target="_blank" rel="noreferrer"><img
