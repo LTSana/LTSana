@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Designer
 ------------------------
 
-I've been coding for the past 4 years. I started with C moving on to Python and deciding to focus on web application development, building complex web applications and PWA for android devices. Currently working with my University to develop a better student experience and improving their Cyber Security.
+I started with C moved on to Python and now I'm learning Kotlin for multiplatform apps.
+I build web applications with PWA functionality. Helped my University to develop a better student experience and improving their Cyber Security.
 
 *   🖥️  See my portfolio at [My Portfolio](http://ltsana.github.io/)
 *   ✉️  You can contact me at [snm.developer@gmail.com](mailto:snm.developer@gmail.com)
