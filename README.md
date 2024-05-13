@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 What I do?
 ------------------------
-Feel free to see my portfolio here: <a href="https://ltsane.github.io/">SEE ME :D</a>
+Feel free to see my portfolio here: <a href="https://ltsana.github.io/">SEE ME :D</a>
 
 <a href="https://www.github.com/LTSana" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/LTSana?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
