@@ -4,19 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Support Me
 <a href="https://www.buymeacoffee.com/ltsana"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-Web Developer & Designer
+What I do?
 ------------------------
-I started with C moved on to Python and now I'm learning Kotlin for multiplatform apps. I spend most my time buiding web applications with using Django.
-My most recent achievements are helping my University to develop a better student experience and improving their Cyber Security.
-
-I Co-Founded Pixrweb, we build in house software projects starting from e-commerce all the way to stats tracking applications.
-
-*  🌍 I'm multi cultural and get a long well with everyone.
-*  🖥️ I love computers and how technology works.
-*  🧠 I'm learning how to better my skills in the latest fields.
-*  ⚡ My superpower is talking... I like discussing tech with like minded people.
-
-Coming all the way from Africa to the Mediterranean and home in Portugal, I have learned a lot from multiple cultures and developed good communications skills with wonderful individuals.
+Feel free to see my portfolio here: <a href="https://ltsane.github.io/">SEE ME :D</a>
 
 <a href="https://www.github.com/LTSana" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/LTSana?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
